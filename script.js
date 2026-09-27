@@ -276,15 +276,15 @@ function createAdvertisement() {
 
 
         document.getElementById("adDescription")
-            .textContent =
+    .textContent =
 
-            "ʻIloʻi ʻa e koloa faka-Tonga ni mei " +
+    "Discover this authentic Tongan product from " +
 
-            location +
+    location +
 
-            ". Fetauʻaki hangatonu mo e tokotaha fakatau " +
+    ". Connect directly with the local vendor and " +
 
-            "pea aʻusia ʻa e koloa fakalotofonua.";
+    "experience a genuine product from the community.";
 
 
         document.getElementById("adLocation")
